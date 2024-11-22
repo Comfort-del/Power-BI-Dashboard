@@ -7,6 +7,7 @@ An investor wants to discover the sales made in 2016 for His fruits and vegetabl
 - The country that purchases the most products?
 - Any new market opportunity?
 - Which category has the highest sales?
+- Interactive Dahboard <a href=https://github.com/Comfort-del/Power-BI-Dashboard/blob/main/Comfort%20Quansah%20sales.report.pbix>View Dahboard</a>
   
 ## Process 
 - Checked for missing values for data quality.
